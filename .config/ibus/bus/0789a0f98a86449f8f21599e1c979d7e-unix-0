@@ -1,0 +1,3 @@
+# This file is created by ibus-daemon, please do not modify it
+IBUS_ADDRESS=unix:abstract=/tmp/dbus-PyDTuhDl,guid=9dcdea3e99f60cd008a2fb7758c1635b
+IBUS_DAEMON_PID=3373

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="18" last-seen="1488709437"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="34" last-seen="1489071599"/>
+    <application id="gnome-terminal.desktop" open-window-count="1" score="8742" last-seen="1489076961"/>
+    <application id="firefox.desktop" open-window-count="1" score="2327" last-seen="1489076918"/>
+    <application id="gnome-disks.desktop" open-window-count="0" score="1" last-seen="1488709398"/>
+  </context>
+</application-state>
